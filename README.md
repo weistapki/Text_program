@@ -10,3 +10,5 @@ https://quizlet.com/736274555/interm-1-flash-cards/
 
 https://www.aomeitech.com/download.html#ab
 https://habr.com/ru/companies/vk/articles/694522/
+
+https://cryptohack.org/
