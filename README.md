@@ -12,3 +12,4 @@ https://www.aomeitech.com/download.html#ab
 https://habr.com/ru/companies/vk/articles/694522/
 
 https://cryptohack.org/
+https://planetcalc.ru/
