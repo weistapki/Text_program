@@ -13,3 +13,6 @@ https://habr.com/ru/companies/vk/articles/694522/
 
 https://cryptohack.org/
 https://planetcalc.ru/
+
+поштовий клієнт Thunderbird шифрування
+https://www.thunderbird.net/uk/
