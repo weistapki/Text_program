@@ -16,3 +16,5 @@ https://planetcalc.ru/
 
 поштовий клієнт Thunderbird шифрування
 https://www.thunderbird.net/uk/
+
+https://www.wireshark.org/download.html
