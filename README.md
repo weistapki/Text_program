@@ -18,3 +18,4 @@ https://planetcalc.ru/
 https://www.thunderbird.net/uk/
 
 https://www.wireshark.org/download.html
+https://ru.khanacademy.org/computing/computer-science/cryptography/crypt/pi/frequency-fingerprint-exploration
