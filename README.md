@@ -22,3 +22,4 @@ https://ru.khanacademy.org/computing/computer-science/cryptography/crypt/pi/freq
 
 https://protonvpn.com/
 https://openvpn.net/
+ https://www.freeopenvpn.org/private.php?cntid=Korea&lang=en
