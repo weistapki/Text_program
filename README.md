@@ -24,3 +24,6 @@ VPN:
 https://protonvpn.com/
 https://openvpn.net/
  https://www.freeopenvpn.org/private.php?cntid=Korea&lang=en
+
+ Сылка на использования http :
+ http://httpforever.com/
