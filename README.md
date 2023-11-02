@@ -27,3 +27,5 @@ https://openvpn.net/
 
  Сылка на использования http :
  http://httpforever.com/
+
+ https://www.techiedelight.com/collectors-class-java-8-tolist-toset-tomap-methods/
