@@ -31,3 +31,5 @@ https://openvpn.net/
  https://www.techiedelight.com/collectors-class-java-8-tolist-toset-tomap-methods/
 
  https://github.blog/category/security/
+http://www.rv-lab.ru/it/is_2008/part3.htm
+ 
