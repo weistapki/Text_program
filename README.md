@@ -41,6 +41,7 @@ https://learn.ztu.edu.ua/mod/resource/view.php?id=108710&forceview=1
 https://eljob.ru/
 
 https://www.youtube.com/watch?v=7fJ42lfCUXg&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5&index=5&ab_channel=JavaRush
+https://www.youtube.com/watch?v=U6DcZVmcDg0&ab_channel=OsintFlow
 https://start.me/p/lL98AO/osint-smart-framework
 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
  
