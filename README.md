@@ -46,4 +46,6 @@ https://start.me/p/lL98AO/osint-smart-framework
 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
 https://tryhackme.com/welcome
 
+Вопросы на кибербезопасность:
+https://ethicalhackx.com/blog/cyber-security-interview/
  
