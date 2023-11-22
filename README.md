@@ -49,5 +49,6 @@ https://tryhackme.com/welcome
 Вопросы на кибербезопасность:
 https://ethicalhackx.com/blog/cyber-security-interview/
 https://app.diagrams.net/
+https://algo.monster/liteproblems/420
 
  
